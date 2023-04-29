@@ -10,6 +10,7 @@ public class ArrayQueue {
         int numb;
         char choose=' ';
         while (loop){
+            System.out.println("测试版本信息");
             System.out.println("a(add)加入数据");
             System.out.println("g(get)弹出数据数据");
             System.out.println("s(showAll)显示所有数据");
